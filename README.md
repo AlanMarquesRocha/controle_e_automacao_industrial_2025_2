@@ -17,7 +17,7 @@
 
 Neste repositório, encontram-se os roteiros das práticas, códigos e materiais ministrada na disciplina de ``Controle e Automação Industrial`` no semestre 2025.2 <br>
 
-Ao todo foram realizadas 06 (oito) práticas, conforme apresentado na Tabela a seguir:
+Ao todo foram realizadas 06 (seis) práticas, conforme apresentado na tabela a seguir:
 
 | Nº da Prática | Descrição | Link |
 | --- | --- | --- |
