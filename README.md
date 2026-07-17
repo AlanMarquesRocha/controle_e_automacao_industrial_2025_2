@@ -11,17 +11,17 @@
 
 <br>
 
-Neste repositório, encontram-se a [ementa da disciplina](link aqui), aulas (slides) e roteiros das práticas, códigos e materiais utilizados na disciplina de ``Controle e Automação Industrial`` no semestre 2025.2 <br>
+Neste repositório, encontram-se a [**ementa da disciplina**](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/blob/master/Ementa%20da%20Disdiplina/ementa_da_disciplina_controle_e_automacao_2025_2.pdf), aulas (slides) e roteiros das práticas, códigos e materiais utilizados na disciplina de ``Controle e Automação Industrial`` no semestre 2025.2 <br>
 
 As aulas foram distribuídas de acordo com a tabela a seguir:
 
 | Aula | Descrição | Link |
 | --- | --- | --- |
-| 00 | Apresentação da disciplina e método avaliativo| [Link para acesso]()
-| 01 | Dispositivos e Comandos Elétricos | [Link para acesso]()
-| 02 | Acionamento e Proteção de Motores Elétricos, Terminologias, Componetes e Comandos | [Link para acesso]()
-| 03 | Controlador Lógico Programável | [Link para acesso]()
-| 04 | Introdução à Linguagem Ladder | [Link para acesso]()
+| 00 | Apresentação da disciplina e método avaliativo| [Link para acesso](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/blob/master/Aulas/Aula%2000/controle_e_automacao_aula_00.pdf)
+| 01 | Dispositivos e Comandos Elétricos | [Link para acesso](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/blob/master/Aulas/Aula%2001/ufc_controle_e_automacao_aula_01.pdf)
+| 02 | Acionamento e Proteção de Motores Elétricos, Terminologias, Componetes e Comandos | [Link para acesso](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/blob/master/Aulas/Aula%2002/ufc_controle_e_automacao_aulas_02.pdf)
+| 03 | Controlador Lógico Programável | [Link para acesso](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/blob/master/Aulas/Aula%2003/ufc_controle_e_automacao_aula_03.pdf)
+| 04 | Introdução à Linguagem Ladder | [Link para acesso](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/blob/master/Aulas/Aula%2004/ufc_controle_e_automacao_aula_04.pdf)
 
 --
 
