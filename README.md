@@ -11,9 +11,21 @@
 
 <br>
 
-Neste repositório, encontram-se os roteiros das práticas, códigos e materiais ministrada na disciplina de ``Controle e Automação Industrial`` no semestre 2025.2 <br>
+Neste repositório, encontram-se a ementa da disciplina, aulas (slides) e roteiros das práticas, códigos e materiais utilizados na disciplina de ``Controle e Automação Industrial`` no semestre 2025.2 <br>
 
-Ao todo foram realizadas 06 (seis) práticas, conforme apresentado na tabela a seguir:
+As aulas foram distribuídas de acordo com a tabela a seguir:
+
+| Aula | Descrição | Link |
+| --- | --- | --- |
+| 00 | Apresentação da disciplina e método avaliativo| [Link para acesso]()
+| 01 | Dispositivos e Comandos Elétricos | [Link para acesso]()
+| 02 | Acionamento e Proteção de Motores Elétricos, Terminologias, Componetes e Comandos | [Link para acesso]()
+| 03 | Controlador Lógico Programável | [Link para acesso]()
+| 04 | Introdução à Linguagem Ladder | [Link para acesso]()
+
+--
+
+Ao todo foram realizadas 05 (cinco) práticas, conforme apresentado na tabela a seguir:
 
 | Nº da Prática | Descrição | Link |
 | --- | --- | --- |
