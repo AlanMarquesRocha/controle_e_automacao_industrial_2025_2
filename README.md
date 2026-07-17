@@ -11,7 +11,7 @@
 
 <br>
 
-Neste repositório, encontram-se a [**ementa da disciplina**](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/blob/master/Ementa%20da%20Disdiplina/ementa_da_disciplina_controle_e_automacao_2025_2.pdf), aulas (slides) e roteiros das práticas, códigos e materiais utilizados na disciplina de ``Controle e Automação Industrial`` no semestre 2025.2 <br>
+Neste repositório, encontram-se a [**ementa**](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/blob/master/Ementa%20da%20Disdiplina/ementa_da_disciplina_controle_e_automacao_2025_2.pdf), aulas (slides) e roteiros das práticas, códigos e materiais utilizados na disciplina de ``Controle e Automação Industrial`` no semestre 2025.2 <br>
 
 As aulas foram distribuídas de acordo com a tabela a seguir:
 
