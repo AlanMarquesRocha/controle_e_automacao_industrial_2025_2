@@ -11,7 +11,7 @@
 
 <br>
 
-Neste repositório, encontram-se a [**ementa**](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/blob/master/Ementa%20da%20Disdiplina/ementa_da_disciplina_controle_e_automacao_2025_2.pdf), aulas (slides) e roteiros das práticas, códigos e materiais utilizados na disciplina de ``Controle e Automação Industrial`` no semestre 2025.2 <br>
+Neste repositório, encontram-se a [**ementa**](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/blob/master/Ementa%20da%20Disdiplina/ementa_da_disciplina_controle_e_automacao_2025_2.pdf), aulas (slides), roteiros das práticas, códigos e materiais utilizados na disciplina de ``Controle e Automação Industrial`` no semestre 2025.2 <br>
 
 As aulas foram distribuídas de acordo com a tabela a seguir:
 
@@ -36,3 +36,5 @@ Ao todo foram realizadas 05 (cinco) práticas, conforme apresentado na tabela a 
 | 05 | Comando, acionamento e partida de um MIT utilizando Ladder (Prática) | [Link para acesso](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/tree/master/Roteiros%20das%20Pr%C3%A1ticas/Pr%C3%A1tica%20IV%20-%20Comando%2C%20acionamento%20e%20partida%20de%20um%20MIT%20utilizando%20Ladder%20(simula%C3%A7%C3%A3o))
 
 <br>
+
+**O autor deste material isenta-se de quaisquer problemas/inconsistências oriundos do seu uso, replicação ou alteração.**
