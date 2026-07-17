@@ -11,7 +11,7 @@
 
 <br>
 
-Neste repositório, encontram-se a ementa da disciplina, aulas (slides) e roteiros das práticas, códigos e materiais utilizados na disciplina de ``Controle e Automação Industrial`` no semestre 2025.2 <br>
+Neste repositório, encontram-se a [ementa da disciplina](link aqui), aulas (slides) e roteiros das práticas, códigos e materiais utilizados na disciplina de ``Controle e Automação Industrial`` no semestre 2025.2 <br>
 
 As aulas foram distribuídas de acordo com a tabela a seguir:
 
