@@ -22,6 +22,6 @@ Ao todo foram realizadas 06 (seis) práticas, conforme apresentado na tabela a s
 | 03 | Partida Estrela-Triângulo e Dispositivos de Proteção | [Link para acesso](-)
 | 04 | Comando, acionamento e partida de um MIT utilizando Ladder (simulação) | [Link para acesso](-)
 | 05 | Comando, acionamento e partida de um MIT utilizando Ladder (Prática) | [Link para acesso](-)
-| 06 | A definir | [Link para acesso](-)
+| 06 | Integração CLP-IHM para acionamento de um MIT | [Link para acesso](-)
 
 <br>
