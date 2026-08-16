@@ -15,7 +15,7 @@ Neste repositório, encontram-se a [**ementa**](https://github.com/AlanMarquesRo
 
 As aulas foram distribuídas de acordo com a tabela a seguir:
 
-| Aula | Descrição | Link |
+| Aula | Descrição | Link de Acesso |
 | --- | --- | --- |
 | 00 | Apresentação da disciplina e método avaliativo| [Link para acesso](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/blob/master/Aulas/Aula%2000/controle_e_automacao_aula_00.pdf)
 | 01 | Dispositivos e Comandos Elétricos | [Link para acesso](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/blob/master/Aulas/Aula%2001/ufc_controle_e_automacao_aula_01.pdf)
@@ -27,7 +27,7 @@ As aulas foram distribuídas de acordo com a tabela a seguir:
 
 Ao todo foram realizadas 05 (cinco) práticas, conforme apresentado na tabela a seguir:
 
-| Nº da Prática | Descrição | Link |
+| Nº da Prática | Descrição | Link de Acesso |
 | --- | --- | --- |
 | 01 | Dispositivos e Comandos Elétricos| [Link para acesso](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/tree/master/Roteiros%20das%20Pr%C3%A1ticas/Pr%C3%A1tica%20I%20-%20Dispositivos%20e%20Comandos%20El%C3%A9tricos)
 | 02 | Acionamento de um Motor de Indução Trifásico | [Link para acesso](https://github.com/AlanMarquesRocha/controle_e_automacao_industrial_2025_2/tree/master/Roteiros%20das%20Pr%C3%A1ticas/Pr%C3%A1tica%20II%20-%20Acionamento%20de%20um%20MIT)
